@@ -1,0 +1,5 @@
+streamlit==1.35.0
+google-generativeai==0.7.2
+chromadb==0.5.3
+PyPDF2==3.0.1
+langchain-text-splitters==0.2.2
